@@ -12,7 +12,7 @@ Mi objetivo es transformar datos crudos en activos de información listos para e
 
 Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
 
-* **ETL Development:** Diseño de pipelines de Extracción, Transformación y Carga robustos y mantenibles.
+* **ETL Development:** Diseño de pipelines de Extracción, Transformación y Carga (ETL) eficientes.
 * **Data Quality & Integrity:** Implementación de reglas de validación, manejo de nulos y tipado estricto para asegurar consistencia.
 * **Data Modeling:** Comprensión de esquemas relacionales y normalización para Data Warehousing.
 * **Engineering Mindset:** Enfoque en la eficiencia de procesos y resolución sistemática de problemas.
