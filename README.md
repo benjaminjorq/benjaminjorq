@@ -8,7 +8,7 @@ Mi objetivo es transformar datos crudos en activos de información listos para e
 
 ---
 
-### 💡 Competencias Técnicas 
+### 💡 Competencias Técnicas (Core Competencies)
 
 Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
 
@@ -27,7 +27,7 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 *Herramientas fundamentales con las que construyo soluciones diariamente.*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermedio-316192?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=flat&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Warehouse-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
