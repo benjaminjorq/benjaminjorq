@@ -2,55 +2,68 @@
 
 **Data Engineer Junior | Ingeniero Civil Químico**
 
-Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, especializándome en el diseño de flujos de datos automatizados y arquitecturas limpias.
+Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, trasladando la lógica de optimización de flujos y control de calidad al diseño de **Pipelines de Datos**.
 
-Mi objetivo es transformar datos crudos en activos de información listos para el análisis, priorizando la **calidad del código** y la **integridad de los datos**.
-
----
-
-### 💡 Core Competencies
-
-Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada:
-
-* **ETL Development:** Diseño de pipelines de Extracción, Transformación y Carga desde cero.
-* **Data Quality:** Implementación de validaciones y limpieza de datos para asegurar consistencia (Handling Nulls, Duplicates, Data Typing).
-* **Data Modeling:** Comprensión de esquemas relacionales (Star Schema) y normalización.
-* **Software Engineering Best Practices:** Código modular, uso de entornos virtuales y control de versiones.
+Mi objetivo es transformar datos crudos en activos de información listos para el análisis, priorizando la **calidad del código**, la trazabilidad y la integridad de los datos.
 
 ---
 
-### 🛠️ Tech Stack
+### 💡 Competencias Técnicas 
 
-**Lenguajes de Programación:**
+Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
+
+* **ETL Development:** Diseño de pipelines de Extracción, Transformación y Carga robustos y mantenibles.
+* **Data Quality & Integrity:** Implementación de reglas de validación, manejo de nulos y tipado estricto para asegurar consistencia.
+* **Data Modeling:** Comprensión de esquemas relacionales y normalización para Data Warehousing.
+* **Engineering Mindset:** Enfoque en la eficiencia de procesos y resolución sistemática de problemas.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+Divido mi stack técnico en las tecnologías que manejo con solidez en entornos productivos y aquellas que estoy incorporando activamente para modernizar mi arquitectura.
+
+#### 🔧 Dominio Actual (Core Skills)
+*Herramientas fundamentales con las que construyo soluciones diariamente.*
+
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Data Engineering & Backend:**
-![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Warehouse-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
-
-**Tools & Testing:**
+![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Warehouse-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-Unit_Testing-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+#### 📚 En Aprendizaje Activo (Upskilling)
+*Tecnologías que estoy estudiando e implementando en mis proyectos para mejorar el despliegue y la orquestación.*
+
+![Docker](https://img.shields.io/badge/Docker-Contenerización-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=flat&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orquestación-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
 ---
 
-### 🚀 Proyecto Destacado: OpenWeather ETL
+### 🚀 Proyecto Destacado
 
-**[Ver Repositorio](https://github.com/benjaminjorq/openweather-etl-pipeline)**
-Un pipeline de datos *end-to-end* contenerizado que simula un entorno productivo de Data Lakehouse.
+📌 **[OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)**
+*Pipeline de datos End-to-End que simula un entorno de Data Lakehouse productivo.*
 
-* **Arquitectura:** Implementación de patrón **Medallion (Bronze/Silver/Gold)**.
-* **Ingeniería:** Ingesta de datos JSON anidados (API), aplanamiento y limpieza con Pandas.
+* **Arquitectura:** Implementación del patrón **Medallion (Bronze/Silver/Gold)** para estructurar el ciclo de vida del dato.
+* **Ingeniería:** Ingesta de datos JSON (API), aplanamiento y limpieza avanzada con Pandas.
 * **Persistencia:** Carga incremental en PostgreSQL.
 * **DevOps:** Entorno aislado con Docker y testing automatizado con Pytest.
 
 ---
 
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjaminjorq&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjorq&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
 ### 📫 Contacto
 
-Estoy buscando oportunidades para integrarme a equipos de datos de alto rendimiento.
+Estoy listo para integrarme a un equipo de datos y aportar valor desde el primer día.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamín_Jorquera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjorquera/)
