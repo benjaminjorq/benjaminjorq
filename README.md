@@ -1,6 +1,6 @@
 ### Hola, soy Benjamín Jorquera 👋
 
-**Data Engineer Junior | Ingeniero Civil Químico**
+**Data Engineer en Formación | Titulado en Ingeniero Civil Química**
 
 Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, trasladando la lógica de optimización de flujos y control de calidad al diseño de **Pipelines de Datos**.
 
@@ -65,5 +65,8 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 ### 📫 Contacto
 
 Estoy listo para integrarme a un equipo de datos y aportar valor desde el primer día.
+
+Correo: benjaminjorq@gmail.com
+Fono: +569 40910880
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamín_Jorquera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjorquera/)
