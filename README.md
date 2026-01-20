@@ -8,7 +8,7 @@ Mi objetivo es transformar datos crudos en activos de información listos para e
 
 ---
 
-### 💡 Competencias Técnicas (Core Competencies)
+### 💡 Competencias Técnicas 
 
 Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
 
