@@ -4,7 +4,7 @@
 
 Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, especializándome en el diseño de flujos de datos automatizados y arquitecturas limpias.
 
-Mi objetivo es claro: transformar datos crudos en activos de información listos para el análisis, priorizando la **calidad del código** y la **integridad de los datos**.
+Mi objetivo es transformar datos crudos en activos de información listos para el análisis, priorizando la **calidad del código** y la **integridad de los datos**.
 
 ---
 
