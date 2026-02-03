@@ -1,4 +1,4 @@
-⁷### Hola, soy Benjamín Jorquera 👋
+### Hola, soy Benjamín Jorquera 👋
 
 **Chemical Engineer | Junior Data Engineer**
 
