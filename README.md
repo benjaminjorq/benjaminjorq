@@ -33,11 +33,14 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 #### 📚 En Aprendizaje Activo (Upskilling)
-*Tecnologías que estoy estudiando e implementando en mis proyectos para mejorar el despliegue y la orquestación.*
+*Tecnologías y plataformas que estoy estudiando e integrando en mis proyectos para gestionar el flujo de datos*
 
 ![Docker](https://img.shields.io/badge/Docker-Contenerización-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=flat&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orquestación-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Computing-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-Computación_Distribuida-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
