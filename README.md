@@ -54,12 +54,16 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 
 ---
 
-### 📊 Actividad en GitHub
+### 📐 Ingeniería y Buenas Prácticas
 
-![Estadísticas de Benjamín](https://github-readme-stats.vercel.app/api?username=benjaminjorq&show_icons=true&theme=radical&hide_border=true)
+Aplico la misma rigurosidad de la ingeniería de procesos al desarrollo de software para garantizar resultados fiables:
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjorq&layout=compact&theme=radical&hide_border=true)
+* **Código Modular:** Desarrollo scripts limpios y funciones reutilizables siguiendo estándares PEP-8.
+* **Control de Versiones:** Gestión ordenada del código fuente utilizando **Git** y flujo de trabajo con ramas.
+* **Seguridad:** Protección de contraseñas y credenciales usando Variables de Entorno, manteniéndolas siempre fuera de código visible.
+* **Validación de Datos:** Implementación de chequeos, validación y tipos de datos para garantizar resultados correctos y coherentes.
 
+---
 
 ### 📫 Contacto
 
