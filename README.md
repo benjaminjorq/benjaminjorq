@@ -47,19 +47,23 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 *Pipeline de datos End-to-End que simula un entorno de Data Lakehouse productivo.*
 
 * **Arquitectura:** Implementación del patrón **Medallion (Bronze/Silver/Gold)** para estructurar el ciclo de vida del dato.
-* **Ingeniería:** Ingesta de datos JSON (API), aplanamiento y limpieza avanzada con Pandas.
-* **Persistencia:** Carga incremental en PostgreSQL.
-* **DevOps:** Entorno aislado con Docker y testing automatizado con Pytest.
+* **Ingeniería:** Ingesta de datos JSON (API), limpieza con Pandas y carga en PostgreSQL.
+* **Orquestación:** DAGs automatizados en **Apache Airflow**.
+* **Pruebas Unitarias:** Uso de pruebas con pytest en funciones de limpieza.
+* **DevOps:** Entorno aislado con Docker y Docker Compose.
 
 ---
 
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminjorq&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjorq&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/benjaminjorq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminjorq&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Benjamín" />
+  </a>
+  <a href="https://github.com/benjaminjorq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjorq&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  </a>
 </div>
-
 ---
 
 ### 📫 Contacto
