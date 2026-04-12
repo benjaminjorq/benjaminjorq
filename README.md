@@ -1,6 +1,7 @@
 **Hola, soy Benjamín Jorquera 👋**
 
-**Chemical Engineer | Junior Data Engineer**
+**Chemical Engineer  
+Junior Data Engineer**
 
 Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, trasladando la lógica de optimización de flujos y control de calidad al diseño de **Pipelines de Datos**.
 
@@ -8,7 +9,7 @@ Mi objetivo es transformar datos crudos en activos de información listos para e
 
 ---
 
-### 💡 Competencias Técnicas 
+### Competencias Técnicas 
 
 Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
 
@@ -19,11 +20,11 @@ Más allá de las herramientas, aporto una mentalidad de ingeniería estructurad
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Herramientas
 
 Divido mi stack técnico en las tecnologías que manejo con solidez en entornos productivos y aquellas que estoy incorporando activamente para modernizar mi arquitectura.
 
-#### 🔧 Dominio Actual (Core Skills)
+#### Dominio Actual (Core Skills)
 *Herramientas fundamentales con las que construyo soluciones diariamente.*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,7 +33,7 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Warehouse-336791?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### 📚 En Aprendizaje Activo (Upskilling)
+#### En Aprendizaje Activo (Upskilling)
 *Tecnologías y plataformas que estoy estudiando e integrando en mis proyectos para gestionar el flujo de datos*
 
 ![Docker](https://img.shields.io/badge/Docker-Contenerización-2496ED?style=flat&logo=docker&logoColor=white)
@@ -57,7 +58,7 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 
 ---
 
-### 📐 Ingeniería y Buenas Prácticas
+### Ingeniería y Buenas Prácticas
 
 Aplico la misma rigurosidad de la ingeniería de procesos al desarrollo de software para garantizar resultados fiables:
 
@@ -68,7 +69,7 @@ Aplico la misma rigurosidad de la ingeniería de procesos al desarrollo de softw
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 Estoy listo para integrarme a un equipo de datos y aportar valor desde el primer día.
 
