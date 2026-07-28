@@ -1,7 +1,7 @@
 **Hola, soy Benjamín Jorquera 👋**
 
-**Chemical Engineer  
-Data Engineer**
+**Ingeniero Civil Quimico 
+Ingeniero de Datos Jr**
 
 Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, trasladando la lógica de optimización de flujos y control de calidad al diseño de **Pipelines de Datos**.
 
