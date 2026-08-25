@@ -47,6 +47,14 @@ Divido mi stack técnico en las tecnologías que manejo con solidez en entornos 
 
 ### 🚀 Proyecto Destacado
 
+📌 **[Industrial Maintenance Pipeline](https://github.com/benjaminjorq/industrial-maintenance-pipeline)**
+*Pipeline de datos híbrido para el procesamiento y control de calidad en entornos de mantenimiento industrial.*
+
+Arquitectura: Implementación de arquitectura Medallion (Bronze/Silver/Gold) utilizando Cloud Storage y BigQuery como capas de almacenamiento y análisis.
+Ingesta Multi-Source: Integración de datos desde PostgreSQL y SFTP, procesando fuentes relacionales y archivos externos dentro de un flujo ETL unificado.
+Procesamiento y Calidad: Transformación con Python y Pandas, incorporando validaciones de esquema, tipos de datos, nulos, rangos y unicidad mediante Data Quality.
+Cloud & DevOps: Ejecución de Workloads batch con Cloud Run Jobs, almacenamiento en Cloud Storage, procesamiento analítico en BigQuery y gestión de imágenes mediante Artifact Registry. Containerización con Docker e integración continua con GitHub Actions y Pytest.
+
 📌 **[OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)**
 *Pipeline de datos End-to-End que simula un entorno de Data Lakehouse productivo.*
 
