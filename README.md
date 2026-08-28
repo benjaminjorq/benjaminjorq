@@ -20,6 +20,15 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 ## 🚀 Proyectos Destacados
 
 ### 📌 [Industrial Maintenance Pipeline](https://github.com/benjaminjorq/industrial-maintenance-pipeline)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
 *Pipeline de datos batch para mantenimiento industrial, con arquitectura Medallion en GCP.*
 
 - Ingesta multifuente desde **PostgreSQL y SFTP**, unificando datos internos y externos en un flujo ETL.
@@ -30,6 +39,13 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 - **Pytest** para pruebas unitarias de limpieza y validación, con integración continua vía **GitHub Actions**.
 
 ### 📌 [OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
 *Pipeline end-to-end orquestado con Airflow, con arquitectura Medallion y carga a Data Warehouse.*
 
 - Ingesta desde **API REST** (clima y contaminación) hacia la capa Bronze en formato JSON.
@@ -43,7 +59,7 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 
 ## 📫 Contacto
 
-📧 benjaminjorq@gmail.com
-📱 +56 9 4091 0880
-💼 [LinkedIn](https://www.linkedin.com/in/bjorquera/)
-💻 [GitHub](https://github.com/benjaminjorq)
+- 📧 benjaminjorq@gmail.com
+- 📱 +56 9 4091 0880
+- 💼 [LinkedIn](https://www.linkedin.com/in/bjorquera/)
+- 💻 [GitHub](https://github.com/benjaminjorq)
