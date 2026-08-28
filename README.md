@@ -1,87 +1,49 @@
-**Hola, soy Benjamín Jorquera 👋**
+# Hola, soy Benjamín Jorquera 👋
 
-**Chemical Engineer & 
-Data Engineer Jr**
+**Data Engineer Jr | Formación en Ingeniería Civil Química**
 
-Soy un ingeniero enfocado en la construcción de **sistemas de datos fiables**. He adaptado la rigurosidad de la ingeniería de procesos industriales al desarrollo de software, trasladando la lógica de optimización de flujos y control de calidad al diseño de **Pipelines de Datos**.
-
-Mi objetivo es transformar datos crudos en activos de información listos para el análisis, priorizando la **calidad del código**, la trazabilidad y la integridad de los datos.
+Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de procesos a la calidad, trazabilidad e integridad de los datos.
 
 ---
 
-### Competencias Técnicas 
+## 🛠️ Stack Técnico
 
-Más allá de las herramientas, aporto una mentalidad de ingeniería estructurada aplicada a los datos:
-
-* **ETL Development:** Diseño de pipelines de Extracción, Transformación y Carga (ETL) eficientes.
-* **Data Quality & Integrity:** Implementación de reglas de validación, manejo de nulos y tipado estricto para asegurar consistencia.
-* **Data Modeling:** Comprensión de esquemas relacionales y normalización para Data Warehousing.
-* **Engineering Mindset:** Enfoque en la eficiencia de procesos y resolución sistemática de problemas.
-
----
-
-### Tech Stack & Herramientas
-
-Divido mi stack técnico en las tecnologías que manejo con solidez en entornos productivos y aquellas que estoy incorporando activamente para modernizar mi arquitectura.
-
-#### Dominio Actual (Core Skills)
-*Herramientas fundamentales con las que construyo soluciones diariamente.*
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermedio-316192?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Warehouse-336791?style=flat&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-#### En Aprendizaje Activo (Upskilling)
-*Tecnologías y plataformas que estoy estudiando e integrando en mis proyectos para gestionar el flujo de datos*
-
-![Docker](https://img.shields.io/badge/Docker-Contenerización-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=flat&logo=git&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-Orquestación-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Computing-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Computación_Distribuida-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+**Lenguajes y Procesamiento:** `Python` `SQL` `Pandas`
+**Bases de Datos:** `PostgreSQL` `SQLAlchemy`
+**Cloud:** `Google Cloud Platform (BigQuery, Cloud Storage, Cloud Run Jobs)`
+**Orquestación:** `Apache Airflow`
+**DevOps:** `Docker` `Git` `GitHub Actions` `Pytest`
+**BI y Visualización:** `Power BI` `Tableau` `Looker Studio`
 
 ---
 
-### 🚀 Proyecto Destacado
+## 🚀 Proyectos Destacados
 
-📌 **[Industrial Maintenance Pipeline](https://github.com/benjaminjorq/industrial-maintenance-pipeline)**
-*Pipeline de datos híbrido para el procesamiento y control de calidad en entornos de mantenimiento industrial.*
+### 📌 [Industrial Maintenance Pipeline](https://github.com/benjaminjorq/industrial-maintenance-pipeline)
+*Pipeline de datos batch para mantenimiento industrial, con arquitectura Medallion en Google Cloud Platform (GCP).*
 
-* **Arquitectura:** Implementación de arquitectura Medallion (Bronze/Silver/Gold) utilizando Cloud Storage y BigQuery como capas de almacenamiento y análisis.
-* **Ingesta Multifuente:** Integración de datos desde PostgreSQL y SFTP, procesando fuentes relacionales y archivos externos dentro de un flujo ETL unificado.
-* **Procesamiento y Calidad:** Transformación con Python y Pandas, incorporando validaciones de esquema, tipos de datos, nulos, rangos y unicidad mediante Data Quality.
-* **Cloud & DevOps:** Ejecución de workloads batch con Cloud Run Jobs, almacenamiento en Cloud Storage, procesamiento analítico en BigQuery y gestión de imágenes mediante Artifact Registry. Containerización con Docker e integración continua con GitHub Actions y Pytest.
+- Ingesta multifuente desde **PostgreSQL y SFTP**, unificando datos internos y externos en un flujo ETL.
+- Arquitectura **Bronze/Silver/Gold** con **Cloud Storage y BigQuery** como capas de almacenamiento y análisis.
+- Transformación y **Data Quality** con Python y Pandas: validación de esquema, nulos, rangos, unicidad y valores aceptados.
+- Ejecución batch en **Cloud Run Jobs**, con respaldo automático en la nube en cada etapa del pipeline.
+- Outputs analíticos en la capa Gold (SQL) para KPIs de producción, downtime de máquinas y consumo de materiales.
+- **Pytest** para pruebas unitarias de limpieza y validación, con integración continua vía **GitHub Actions**.
 
-📌 **[OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)**
-*Pipeline de datos End-to-End que simula un entorno de Data Lakehouse productivo.*
+### 📌 [OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)
+*Pipeline end-to-end orquestado con Airflow, con arquitectura Medallion y carga a Data Warehouse.*
 
-* **Arquitectura:** Implementación del patrón **Medallion (Bronze/Silver/Gold)** para estructurar el ciclo de vida del dato.
-* **Ingeniería:** Ingesta de datos JSON (API), limpieza con Pandas y carga en PostgreSQL.
-* **Orquestación:** DAGs automatizados en **Apache Airflow**.
-* **Pruebas Unitarias:** Uso de pruebas con pytest en funciones de limpieza.
-* **DevOps:** Entorno aislado con Docker y Docker Compose.
-
----
-
-### Ingeniería y Buenas Prácticas
-
-Aplico la misma rigurosidad de la ingeniería de procesos al desarrollo de software para garantizar resultados fiables:
-
-* **Código Modular:** Desarrollo scripts limpios y funciones reutilizables siguiendo estándares PEP-8.
-* **Control de Versiones:** Gestión ordenada del código fuente utilizando **Git** y flujo de trabajo con ramas.
-* **Seguridad:** Protección de contraseñas y credenciales usando Variables de Entorno, manteniéndolas siempre fuera de código visible.
-* **Validación de Datos:** Implementación de chequeos, validación y tipos de datos para garantizar resultados correctos y coherentes.
+- Ingesta desde **API REST** (clima y contaminación) hacia la capa Bronze en formato JSON.
+- Limpieza, tipado y normalización con Pandas, y validaciones de calidad de datos antes de la carga.
+- Modelado en **Star Schema** dentro de PostgreSQL (tablas de hechos y dimensiones).
+- **Orquestación con Apache Airflow**: DAGs programados para ETL horario y generación diaria de reportes Gold.
+- **Alertas en tiempo real vía Discord** ante fallos de ejecución, usando `on_failure_callback`.
+- Entorno reproducible con **Docker y Docker Compose**, y pruebas unitarias con **Pytest**.
 
 ---
 
-### Contacto
+## 📫 Contacto
 
-Estoy listo para integrarme a un equipo de datos y aportar valor desde el primer día.
-
-Correo: benjaminjorq@gmail.com
-Fono: +569 40910880
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamín_Jorquera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjorquera/)
+📧 benjaminjorq@gmail.com
+📱 +56 9 4091 0880
+💼 [LinkedIn](https://www.linkedin.com/in/bjorquera/)
+💻 [GitHub](https://github.com/benjaminjorq)
