@@ -20,15 +20,6 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 ## 🚀 Proyectos Destacados
 
 ### 📌 [Industrial Maintenance Pipeline](https://github.com/benjaminjorq/industrial-maintenance-pipeline)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
 *Pipeline de datos batch para mantenimiento industrial, con arquitectura Medallion en GCP.*
 
 - Ingesta multifuente desde **PostgreSQL y SFTP**, unificando datos internos y externos en un flujo ETL.
@@ -38,14 +29,9 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 - Consultas SQL en la capa Gold para KPIs de producción, downtime de máquinas y consumo de materiales.
 - **Pytest** para pruebas unitarias de limpieza y validación, con integración continua vía **GitHub Actions**.
 
+**Stack:** `Python` `SQL` `Pandas` `PostgreSQL` `psycopg2` `PyArrow (Parquet)` `Paramiko (SFTP)` `python-dotenv` `Google Cloud Storage` `BigQuery` `Cloud Run Jobs` `Artifact Registry` `Docker` `Git` `GitHub Actions` `Pytest`
+
 ### 📌 [OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
 *Pipeline end-to-end orquestado con Airflow, con arquitectura Medallion y carga a Data Warehouse.*
 
 - Ingesta desde **API REST** (clima y contaminación) hacia la capa Bronze en formato JSON.
@@ -54,6 +40,8 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 - **Orquestación con Apache Airflow**: DAGs programados para ETL horario y generación diaria de reportes Gold.
 - **Alertas en tiempo real vía Discord** ante fallos de ejecución, usando `on_failure_callback`.
 - Entorno reproducible con **Docker y Docker Compose**, y pruebas unitarias con **Pytest**.
+
+**Stack:** `Python` `Pandas` `Requests` `PyYAML` `python-dotenv` `PostgreSQL` `SQLAlchemy` `Apache Airflow` `Docker` `Docker Compose` `Pytest` `Discord Webhooks`
 
 ---
 
