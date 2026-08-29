@@ -6,7 +6,7 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 - **Lenguajes y Procesamiento:** `Python` `SQL` `Pandas`
 - **Bases de Datos:** `PostgreSQL` `SQLAlchemy`
