@@ -8,8 +8,8 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 
 ## Stack Técnico
 
-- **Lenguajes y Procesamiento:** `Python` `SQL` `Pandas`
-- **Bases de Datos:** `PostgreSQL` `SQLAlchemy`
+- **Lenguajes y Procesamiento:** `Python` `SQL` `Pandas` `PySpark`
+- **Bases de Datos:** `PostgreSQL` `SQL Server`
 - **Cloud:** `Google Cloud Platform (BigQuery, Cloud Storage, Cloud Run Jobs)`
 - **Orquestación:** `Apache Airflow`
 - **DevOps:** `Docker` `Git` `GitHub Actions` `Pytest`
@@ -29,7 +29,7 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 - Consultas SQL en la capa Gold para KPIs de producción, downtime de máquinas y consumo de materiales.
 - **Pytest** para pruebas unitarias de limpieza y validación, con integración continua vía **GitHub Actions**.
 
-**Stack:** `Python` `SQL` `Pandas` `PostgreSQL` `psycopg2` `PyArrow (Parquet)` `Paramiko (SFTP)` `python-dotenv` `Google Cloud Storage` `BigQuery` `Cloud Run Jobs` `Artifact Registry` `Docker` `Git` `GitHub Actions` `Pytest`
+**Stack:** `Python` `SQL` `Pandas` `PostgreSQL` `psycopg2` `Paramiko (SFTP)` `Google Cloud Storage` `BigQuery` `Cloud Run Jobs` `Artifact Registry` `Docker` `Git` `GitHub Actions` `Pytest`
 
 ### 📌 [OpenWeather ETL Pipeline](https://github.com/benjaminjorq/openweather-etl-pipeline)
 *Pipeline end-to-end orquestado con Airflow, con arquitectura Medallion y carga a Data Warehouse.*
