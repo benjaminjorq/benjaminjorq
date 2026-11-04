@@ -1,6 +1,6 @@
 # Hola, soy Benjamín Jorquera 👋
 
-**Chemichal Engineer & Data Engineer**
+**Chemical Engineer & Data Engineer**
 
 Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de procesos a la calidad, trazabilidad e integridad de los datos.
 
