@@ -10,10 +10,10 @@ Construyo pipelines de datos end-to-end aplicando rigurosidad de ingeniería de 
 
 - **Lenguajes y Procesamiento:** `Python` `SQL` `Pandas` `PySpark`
 - **Bases de Datos:** `PostgreSQL` `SQL Server`
-- **Cloud:** `Google Cloud Platform (BigQuery, Cloud Storage, Cloud Run Jobs)`
+- **Cloud:** `Google Cloud Platform (BigQuery, Cloud Storage, Cloud Run Jobs, Cloud Scheduler, Artifact Registry, Secret Manager, IAM)`
 - **Orquestación:** `Apache Airflow`
-- **DevOps:** `Docker` `Git` `GitHub Actions` `Pytest`
-- **BI y Visualización:** `Power BI` `Tableau` `Looker Studio`
+- **DevOps:** `Docker` `Git` `GitHub` `GitHub Actions (CI)` `Pytest`
+- **BI y Visualización:** `Power BI (Power Query)` `Tableau` `Looker Studio`
 
 ---
 
